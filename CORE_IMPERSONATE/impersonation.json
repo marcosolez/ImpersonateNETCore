@@ -1,0 +1,10 @@
+{
+  "impersonation": {
+    "is_enabled": true,
+    "credentials": {
+      "domain": "uned.ac.cr",
+      "username": "sis_sigesca@uned.ac.cr",
+      "password": "S1g35c@.un3d.2k20"
+    }
+  }
+}
