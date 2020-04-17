@@ -24,7 +24,7 @@ namespace CORE_IMPERSONATE.Controllers
         {
             ImpersonateFunction.Run(
                   () => { 
-                      //..... 
+                      //..... Acciones en el nuevo contexto
                   },
                   env);
             return View();
